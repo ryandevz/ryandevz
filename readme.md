@@ -8,7 +8,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&style=flat&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&style=flat&logoColor=white)
-
 * **Backend:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&style=flat&logoColor=white)
@@ -37,10 +36,8 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&style=flat&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&style=flat&logoColor=white)
-
 * **Non-Relational:** 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&style=flat&logoColor=white)
-
 * **Search Engines:** 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&style=flat&logoColor=white)
 
